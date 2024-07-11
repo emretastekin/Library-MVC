@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{9E78BF56-652B-474C-AD91-A6121BEBD48A}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LibraryMVC PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LibraryMVC/appsettings.json">
+    <Files>
+      <File FileName="LibraryMVC/Models/Author.cs" />
+      <File FileName="LibraryMVC/Models/Book.cs" />
+      <File FileName="LibraryMVC/Controllers/BooksController.cs" />
+      <File FileName="LibraryMVC/Controllers/LocationsController.cs" Line="24" Column="10" />
+      <File FileName="LibraryMVC/appsettings.json" Line="13" Column="1" />
+      <File FileName="LibraryMVC/Data/ApplicationContext.cs" />
+      <File FileName="LibraryMVC/Models/Location.cs" />
+      <File FileName="LibraryMVC/Migrations/20240701063248_1.cs" />
+      <File FileName="LibraryMVC/Controllers/AuthorsController.cs" />
+      <File FileName="LibraryMVC/Views/Locations/Index.cshtml" />
+      <File FileName="LibraryMVC/Views/Authors/Index.cshtml" />
+      <File FileName="LibraryMVC/Views/Locations/Create.cshtml" />
+      <File FileName="LibraryMVC/Program.cs" />
+      <File FileName="LibraryMVC/Controllers/HomeController.cs" />
+      <File FileName="LibraryMVC/Views/Books/Index.cshtml" />
+      <File FileName="LibraryMVC/Views/Locations/Details.cshtml" />
+      <File FileName="LibraryMVC/Models/Category.cs" />
+      <File FileName="LibraryMVC/Models/Language.cs" />
+      <File FileName="LibraryMVC/Models/Publisher.cs" />
+      <File FileName="LibraryMVC/Models/SubCategory.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LibraryMVC" expanded="True">
+            <Node name="LibraryMVC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Locations" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

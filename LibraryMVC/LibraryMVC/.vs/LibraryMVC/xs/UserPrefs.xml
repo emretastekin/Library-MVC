@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F6F81C22-C37C-4E21-9FBC-7693C6575C04}|http">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/ApplicationContext.cs">
+    <Files>
+      <File FileName="appsettings.json" Line="10" Column="101" />
+      <File FileName="Data/ApplicationContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LibraryMVC" expanded="True">
+            <Node name="LibraryMVC" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="ApplicationContext.cs" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LibraryMVC PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
