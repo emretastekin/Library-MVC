@@ -11623,11 +11623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/LibraryMVC.csproj",
+      "projectUniqueName": "/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/LibraryMVC.csproj",
       "projectName": "LibraryMVC",
-      "projectPath": "/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/LibraryMVC.csproj",
+      "projectPath": "/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/LibraryMVC.csproj",
       "packagesPath": "/Users/a3-14/.nuget/packages/",
-      "outputPath": "/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/obj/",
+      "outputPath": "/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/a3-14/.nuget/NuGet/NuGet.Config"

@@ -9,177 +9,177 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LibraryMVC
 build_property.RootNamespace = LibraryMVC
-build_property.ProjectDir = /Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/
+build_property.ProjectDir = /Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC
+build_property.MSBuildProjectDirectory = /Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Authors/Create.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Authors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9ycy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Authors/Delete.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Authors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9ycy9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Authors/Details.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Authors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9ycy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Authors/Edit.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Authors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9ycy9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Authors/Index.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Authors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aG9ycy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Books/Create.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Books/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va3MvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Books/Delete.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Books/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va3MvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Books/Details.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Books/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va3MvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Books/Edit.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Books/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va3MvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Books/Index.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Books/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va3MvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Categories/Create.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Categories/Delete.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Categories/Details.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Categories/Edit.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Categories/Index.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcmllcy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Home/Index.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Home/Privacy.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Languages/Create.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Languages/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGFuZ3VhZ2VzL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Languages/Delete.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Languages/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGFuZ3VhZ2VzL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Languages/Details.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Languages/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGFuZ3VhZ2VzL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Languages/Edit.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Languages/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGFuZ3VhZ2VzL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Languages/Index.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Languages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTGFuZ3VhZ2VzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Locations/Create.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Locations/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9jYXRpb25zL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Locations/Delete.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Locations/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9jYXRpb25zL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Locations/Details.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Locations/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9jYXRpb25zL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Locations/Edit.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Locations/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9jYXRpb25zL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Locations/Index.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Locations/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9jYXRpb25zL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Publishers/Create.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Publishers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHVibGlzaGVycy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Publishers/Delete.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Publishers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHVibGlzaGVycy9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Publishers/Details.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Publishers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHVibGlzaGVycy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Publishers/Edit.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Publishers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHVibGlzaGVycy9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Publishers/Index.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Publishers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHVibGlzaGVycy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Shared/Error.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/SubCategories/Create.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/SubCategories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3ViQ2F0ZWdvcmllcy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/SubCategories/Delete.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/SubCategories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3ViQ2F0ZWdvcmllcy9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/SubCategories/Details.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/SubCategories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3ViQ2F0ZWdvcmllcy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/SubCategories/Edit.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/SubCategories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3ViQ2F0ZWdvcmllcy9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/SubCategories/Index.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/SubCategories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3ViQ2F0ZWdvcmllcy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/_ViewImports.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/_ViewStart.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/a3-14/Desktop/SoftITO/LibraryMVC/LibraryMVC/Views/Shared/_Layout.cshtml]
+[/Users/a3-14/Desktop/Library-MVC/LibraryMVC/LibraryMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7e15l7pliw
